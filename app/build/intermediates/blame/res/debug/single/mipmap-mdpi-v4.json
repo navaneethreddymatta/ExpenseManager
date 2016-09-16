@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\navan\\AndroidStudioProjects\\ExpenseManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\navan\\AndroidStudioProjects\\ExpenseManager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\navan\\AndroidStudioProjects\\ExpenseManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\camera.png",
+        "source": "C:\\Users\\navan\\AndroidStudioProjects\\ExpenseManager\\app\\src\\main\\res\\mipmap-mdpi\\camera.png"
+    }
+]
